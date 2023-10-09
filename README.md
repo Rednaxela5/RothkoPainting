@@ -1,5 +1,5 @@
-# RothkoPainting
-The purpose of this repo is to monitor my progress in learning HTML and CSS by making a basic Rothko Painting. I am utilizing the freeCodeCamp "Learn CSS Box Model by Building a Rothko Painting" for this repo.
+# Rothko Painting
+The purpose of this repo is to monitor my progress in learning HTML and CSS by making a basic Rothko Painting. I am utilizing the freeCodeCamp's [Learn CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting) for this repo.
 
 ## Screenshot
 <img src="assets/readme-screenshots/output.png"/>
